@@ -2,8 +2,8 @@ div{
     display: flex;
     flex-wrap: wrap;
     width: 600px;
-    margin: none;
-    padding: none;
+    margin: 0;
+    padding: 0;
     
 }
 
